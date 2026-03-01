@@ -13,14 +13,14 @@
   },
   "dependencies": {
     "@nuxt/eslint": "^1.9.0",
-    "@polkadot/util": "^13.5.6",
-    "@polkadot/util-crypto": "^13.5.6",
+    "@polkadot/util": "^14.0.1",
+    "@polkadot/util-crypto": "^14.0.1",
     "@talismn/connect-wallets": "^1.2.8",
     "nuxt": "^4.0.3",
     "polkadot-api": "^1.16.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^5.2.1",
+    "@antfu/eslint-config": "^7.5.0",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/token-branded": "^1.2.26",
     "@iconify/tailwind4": "^1.0.6",
@@ -28,7 +28,7 @@
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/tsconfig": "^0.8.1",
     "daisyui": "^5.0.54",
-    "eslint": "^9.34.0",
+    "eslint": "^10.0.2",
     "tailwindcss": "^4.1.12",
     "typescript": "^5.9.2",
     "vite": "^7.1.3",

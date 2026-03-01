@@ -10,28 +10,28 @@
     "postinstall": "papi"
   },
   "dependencies": {
-    "@polkadot/util": "^13.5.6",
-    "@polkadot/util-crypto": "^13.5.6",
+    "@polkadot/util": "^14.0.1",
+    "@polkadot/util-crypto": "^14.0.1",
     "@talismn/connect-wallets": "^1.2.8",
     "@xstate/store": "^3.9.2",
-    "next": "15.5.2",
+    "next": "16.1.6",
     "polkadot-api": "^1.16.3",
-    "react": "19.1.1",
-    "react-dom": "19.1.1"
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/token-branded": "^1.2.26",
     "@iconify/tailwind4": "^1.0.6",
-    "@next/eslint-plugin-next": "^15.5.2",
+    "@next/eslint-plugin-next": "^16.1.6",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^24",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "daisyui": "^5.0.54",
-    "eslint": "^9.34.0",
-    "eslint-config-next": "^15.5.2",
+    "eslint": "^10.0.2",
+    "eslint-config-next": "^16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
